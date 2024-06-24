@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: rgb(155, 70, 224);
+  color: black;
+}
+
+h1 {
+  font-family: cursive;
+  color: rgb(205, 205, 235);
+  text-transform: uppercase;
+}
+
+footer {
+  background-color: #c487f3;
+  color: #fff;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+}
+
+a,.nav-link{
+  color: aliceblue;
+}
